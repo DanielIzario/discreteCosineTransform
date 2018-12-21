@@ -1,3 +1,5 @@
+// Daniel Izario
+
 function DiscreteCosineTransform()
 {
 	this.main = function()
